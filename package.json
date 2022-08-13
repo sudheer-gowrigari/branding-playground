@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/sudheer496.lwc-l6s35mxr-fork-l6s36gmc",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve A6DqaVCV9mlP7y9QPBRv --open"
+  }
+}
